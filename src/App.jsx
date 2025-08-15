@@ -5,7 +5,7 @@ import { desc } from "motion/react-client";
 
 const BANNER = [
   "Welcome to imvkc terminal (v0.1.0)",
-  "Type `chaicode_hitesh` to start conversation with hitesh sir",
+  "Type `chaicode_hitesh` or `chaicode_piyush` to start conversation with hitesh sir",
 ];
 
 function useThemeInit() {
